@@ -23,7 +23,7 @@ Project 1 구성 :
 
 ER diagram output :
 <p align="center">ㄴ
-    <img src="./DMA_Project1/ER-model.png" width="600" height="300"/>
+    <img src="./DMA_Project1/ER-model.PNG" width="600" height="300"/>
 </p>
 
 &nbsp; 
